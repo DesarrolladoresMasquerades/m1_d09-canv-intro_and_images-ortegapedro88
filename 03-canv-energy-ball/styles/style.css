@@ -1,0 +1,8 @@
+
+#canvas{
+    box-sizing: border-box;
+    border: 0;  /* in real applications the border will "eat" pixels from the canvas*/
+   /*  position: relative;
+    top: 50px;
+    left: 50px */
+}
